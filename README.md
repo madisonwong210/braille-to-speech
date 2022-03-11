@@ -11,12 +11,17 @@ Braille to Speech is a machine learning application whose goal is to bridge the 
   </ol>
 </details>
 
-## Data Collection
+### Data Collection
 The dataset contains of photos of braille text. It contains * pages of two-sided books, and * pages of single-sided children's books.
 
-## Preprocessing
+|   | type | sided | total |
+| ----- | :---: | :---: | ---: |
+| Frederick | uncontracted (type 1) | single | 212 |
+| Cloudy With a Chance of Meatballs | uncontracted | single | 28 |
+| Looking for a job? a guide for youth | contacted type 2 | double | 44 |
+### Preprocessing
 Preprocessing can be found here
-## Implementation
+### Implementation
 Blah
 
 <!-- ### Built With
