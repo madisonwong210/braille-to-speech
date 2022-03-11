@@ -24,6 +24,13 @@ Preprocessing can be found here
 ### Implementation
 Blah
 
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Gather data
+- [x] Preprocess images
+- [ ] Implement and train model
+
 <!-- ### Built With
 
 * [Next.js](https://nextjs.org/) -->
