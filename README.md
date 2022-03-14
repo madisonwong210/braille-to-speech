@@ -12,7 +12,7 @@ Braille to Speech is a machine learning application whose goal is to bridge the 
 </details>
 
 ### Data Collection
-The dataset contains of photos of braille text. It contains various images from 
+The dataset contains of photos of braille text. It contains various images from the following texts:
 
 |   | type | sided | pages |
 | ----- | :---: | :---: | ---: |
@@ -20,9 +20,11 @@ The dataset contains of photos of braille text. It contains various images from
 | Cloudy With a Chance of Meatballs | uncontracted (type 1)| double | 33 |
 | Looking for a job? a guide for youth | contacted | double | 80 |
 ### Preprocessing
-Preprocessing can be found here
+Basic image preprocessing can be found in Final_Proj_1.ipynb
+Here is a link to the colab: https://colab.research.google.com/drive/1m8Z7Qcfv67zfctvQ3r8iZvvSmUAnDGqS?usp=sharing
+
 ### Implementation
-Blah
+The beginning stages of implementing the basic model can also be found in Final_Proj_1.ipynb
 
 <!-- ROADMAP -->
 ### Roadmap
