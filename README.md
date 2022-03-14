@@ -16,9 +16,9 @@ The dataset contains of photos of braille text. It contains various images from
 
 |   | type | sided | pages |
 | ----- | :---: | :---: | ---: |
-| Frederick | contracted (type 2) | single | 212 |
-| Cloudy With a Chance of Meatballs | uncontracted (type 1)| double | 28 |
-| Looking for a job? a guide for youth | contacted | double | 44 |
+| Frederick | contracted (type 2) | single | 20 |
+| Cloudy With a Chance of Meatballs | uncontracted (type 1)| double | 33 |
+| Looking for a job? a guide for youth | contacted | double | 80 |
 ### Preprocessing
 Preprocessing can be found here
 ### Implementation
