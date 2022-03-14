@@ -32,6 +32,7 @@ The beginning stages of implementing the basic model can also be found in Final_
 
 - [x] Gather data
 - [x] Preprocess images
+- [ ] Label data
 - [ ] Implement and train model
 
 <!-- ### Built With
