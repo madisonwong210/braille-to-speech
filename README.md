@@ -18,7 +18,8 @@ The dataset contains of photos of braille text. It contains various images from 
 | ----- | :---: | :---: | ---: |
 | Frederick | contracted (type 2) | single | 20 |
 | Cloudy With a Chance of Meatballs | uncontracted (type 1)| double | 33 |
-| Looking for a job? a guide for youth | contacted | double | 80 |
+| Looking for a job? a guide for youth | contracted | double | 80 |
+
 ### Preprocessing
 Basic image preprocessing can be found in Final_Proj_1.ipynb
 Here is a link to the colab: https://colab.research.google.com/drive/1m8Z7Qcfv67zfctvQ3r8iZvvSmUAnDGqS?usp=sharing
@@ -31,6 +32,7 @@ The beginning stages of implementing the basic model can also be found in Final_
 
 - [x] Gather data
 - [x] Preprocess images
+- [ ] Label data
 - [ ] Implement and train model
 
 <!-- ### Built With
